@@ -28,7 +28,7 @@ We are using Google Classroom for discussion. Join the Class at https://classroo
 
 ***
 
-<img src="https://github.com/bioinformaticsdotca/IntroR_2018/blob/master/CBW-may-14-2018.jpg?raw=true" alt="Class Photo" width="750" />
+Class Photo here: <img src=" " alt="Class Photo" width="750" />
 
 # Day 1 <a id="day1"></a>
 
