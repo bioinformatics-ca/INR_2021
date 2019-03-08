@@ -1,9 +1,9 @@
 ---
-layout: test_fair
+layout: workshop_main_2day
 permalink: /intror_2019
 title: IntroR
 header1: Workshop Pages for Students
-header2: Introduction to R
+header2: Introduction to R 2019
 yearName: Introduction to R 2019
 image: https://github.com/bioinformaticsdotca/bioinformaticsdotca.github.io/blob/master/site_images/CBW_introtoR-icon.jpg?raw=true
 keywords: Data handling, using R syntax, scientific computational work
@@ -16,11 +16,14 @@ location: Toronto, Ontario, Canada
 startDate: 2019-05-13
 endDate: 2019-05-14
 ---
+
 # Welcome <a id="welcome"></a>
 
 Welcome to Introduction to R.  
 
 The course schedule can be found [here](). 
+
+# Pre-Workshop Materials <a id="preworkshop"></a>
 
 Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2018_prework).  
 
