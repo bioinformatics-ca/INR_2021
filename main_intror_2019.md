@@ -14,7 +14,7 @@ status: Completed
 audience: Graduates, postgraduates, Principle Investigators, Researchers
 location: Toronto, Ontario, Canada
 startDate: 2019-05-13
-endDate: 2013-05-14
+endDate: 2019-05-14
 ---
 # Welcome <a id="welcome"></a>
 
@@ -22,13 +22,15 @@ Welcome to Introduction to R.
 
 The course schedule can be found [here](). 
 
-Pre-work including programs to install can be found [here]().  
+Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2018_prework).  
 
 We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
 
 ***
 
-Class Photo here: <img src=" " alt="Class Photo" width="750" />
+# Class Photo
+
+Coming soon here: <img src=" " alt="Class Photo" width="750" />
 
 # Day 1 <a id="day1"></a>
 
@@ -36,7 +38,7 @@ Class Photo here: <img src=" " alt="Class Photo" width="750" />
 
 ## Welcome
 
-*<font color="#827e9c">Ann Meyer</font>*
+*<font color="#827e9c">Francis Ouellette</font>*
 
 ## Lecture
 
@@ -61,9 +63,9 @@ We will be working with `mySequenceAnalysis.R`.
 Files for Integrated Assignment:
 
 [Presentation]()  
-[R Script]()  
-[R data]()  
-[R script with answers]()  
+[R Script](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20script.R)  
+[R data](https://github.com/bioinformaticsdotca/IntroR_2018/raw/master/MYC-let-7-ggplot-data.rds)  
+[R script with answers](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20master.R)  
 
 ***
 
@@ -79,6 +81,7 @@ We will be working with `myDataIntegration.R` and `myNumericData.R`.
 
 
 ***
+# Survey
 
 Thank you for attending the Introduction to R workshop! Help us make this workshop better by filling out [our survey](). 
 
