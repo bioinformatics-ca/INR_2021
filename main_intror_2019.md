@@ -21,11 +21,11 @@ endDate: 2019-05-14
 
 Welcome to Introduction to R.  
 
-The course schedule can be found [here](/intror_2019_schedule). 
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2019_schedule). 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2018_prework).  
+Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2019_prework).  
 
 We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
 
@@ -33,7 +33,7 @@ We are using Google Classroom for discussion. Join the Class at https://classroo
 
 # Class Photo
 
-Coming soon here: <img src=" " alt="Class Photo" width="750" />
+Coming soon here
 
 # Day 1 <a id="day1"></a>
 
@@ -65,7 +65,7 @@ We will be working with `mySequenceAnalysis.R`.
 
 Files for Integrated Assignment:
 
-[Presentation]()  
+[Slide Deck]()  
 [R Script](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20script.R)  
 [R data](https://github.com/bioinformaticsdotca/IntroR_2019/MYC-let-7-ggplot-data.rds)  
 [R script with answers](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20master.R)  
