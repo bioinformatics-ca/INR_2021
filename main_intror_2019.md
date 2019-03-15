@@ -5,7 +5,7 @@ title: IntroR
 header1: Workshop Pages for Students
 header2: Introduction to R 2019
 yearName: Introduction to R 2019
-image: https://github.com/bioinformaticsdotca/bioinformaticsdotca.github.io/blob/master/site_images/CBW_introtoR-icon.jpg?raw=true
+image: /site_images/CBW_introtoR-icon.jpg
 keywords: Data handling, using R syntax, scientific computational work
 description: Course introduces essential ideas and tools of R, and covers statistical tests in R.
 instructors: Boris Steipe, Lauren Erdman
@@ -21,7 +21,7 @@ endDate: 2019-05-14
 
 Welcome to Introduction to R.  
 
-The course schedule can be found [here](). 
+The course schedule can be found [here](/intror_2019_schedule). 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
