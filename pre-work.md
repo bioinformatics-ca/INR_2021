@@ -1,11 +1,14 @@
 ---
 layout: tutorial_page
-permalink: /intror_2018_prework
-title: IntroR PreWork
+permalink: /intror_2019_prework
+title: Intro R PreWork
 header1: Workshop Pages for Students
-header2: Introduction to R 2018 Pre-Work
+header2: Introduction to R 2019 Pre-Work
 image: /site_images/CBW_introtoR-icon.jpg
-home: https://bioinformaticsdotca.github.io/intror_2018
+home: https://bioinformaticsdotca.github.io/intror_2019
+description: Intro R PreWork
+author: Michelle Brazas
+modified: March 15, 2019
 ---
 
 ## Knowledge Preparation: <a id="preworkshop"></a>
