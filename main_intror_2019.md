@@ -66,10 +66,10 @@ We will be working with `mySequenceAnalysis.R`.
 Files for Integrated Assignment:
 
 [Slide Deck]()  
-[R Script](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20script.R)  
+[R Script](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2019/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20script.R)  
 [R data](/IntroR_2019/MYC-let-7-ggplot-data.rds)
 
-[R script with answers](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2018/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20master.R)  
+[R script with answers](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2019/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20master.R)  
 
 ***
 
