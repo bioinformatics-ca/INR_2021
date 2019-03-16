@@ -23,6 +23,8 @@ Welcome to Introduction to R.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2019_schedule). 
 
+The full course notes are available as a [single PDF here]().  
+
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
 Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2019_prework).  
