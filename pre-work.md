@@ -17,6 +17,8 @@ An introductory tutorial to R has been prepared, you can access it here: http://
  
 Please work through the tutorial carefully if you are new to R.  We will go through much of the material during the workshop, but you will profit the most if you are already somewhat familiar with it. Then you can consolidate your knowledge and fill in any gaps.
 
+A very useful R cheatsheet can be found here: https://www.rstudio.com/wp-content/uploads/2019/01/Cheatsheets_2019.pdf  
+
 ## Laptop Programs to Install:
 
 1) Install the most recent version of R for your operating system by following the links from http://www.r-project.org/  
