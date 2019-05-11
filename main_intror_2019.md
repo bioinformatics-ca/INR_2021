@@ -19,9 +19,11 @@ endDate: 2019-05-14
 
 # Welcome <a id="welcome"></a>
 
-Welcome to Introduction to R.  
+[Welcome](https://drive.google.com/a/bioinformatics.ca/file/d/16QK5ddMDEK3h8z5Qhp5X1sNJz64lBN9M/view?usp=sharing) to Introduction to R.  
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2019_schedule). 
+
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1EDCbp0-cfVosgm6ecwNjWiB_Q9SXOaZ_/view?usp=sharing)
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
