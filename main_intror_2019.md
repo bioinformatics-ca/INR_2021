@@ -23,7 +23,7 @@ endDate: 2019-05-14
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2019_schedule). 
 
-Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1EDCbp0-cfVosgm6ecwNjWiB_Q9SXOaZ_/view?usp=sharing)
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1PIx05sCP2JD03m-viikeElaiLmPLE3Xw/view?usp=sharing)
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
