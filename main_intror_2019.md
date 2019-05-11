@@ -29,8 +29,6 @@ Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1ED
 
 Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2019_prework).  
 
-We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
-
 ***
 
 # Class Photo
