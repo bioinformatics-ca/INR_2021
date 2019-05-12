@@ -87,6 +87,6 @@ We will be working with `myDataIntegration.R` and `myNumericData.R`.
 ***
 # Survey
 
-Thank you for attending the Introduction to R workshop! Help us make this workshop better by filling out [our survey](). 
+Thank you for attending the Introduction to R workshop! Help us make this workshop better by filling out [our survey](https://forms.gle/2a6k8gXQwNoMyJ119). 
 
 ***
