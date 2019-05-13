@@ -65,7 +65,8 @@ We will be working with `mySequenceAnalysis.R`.
 
 Files for Integrated Assignment:
 
-[Slide Deck]()  
+[Slide Deck](https://drive.google.com/a/bioinformatics.ca/file/d/1YOuaB4u5ujVbaO9tJ9NSZgk9xRGPrIDl/view?usp=sharing)    
+
 [R Script](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2019/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20script.R)  
 [R data](/IntroR_2019/MYC-let-7-ggplot-data.rds)
 
