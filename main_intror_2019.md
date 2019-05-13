@@ -33,7 +33,8 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 # Class Photo
 
-Coming soon here
+<img src="https://drive.google.com/a/bioinformatics.ca/file/d/1G0_V5jfgijEOqRz8ulDkwN13Yo_0IN2K/view?usp=sharing" alt="Class Photo" width="750" />
+
 
 # Day 1 <a id="day1"></a>
 
