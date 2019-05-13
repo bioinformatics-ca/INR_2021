@@ -33,7 +33,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 # Class Photo
 
-<img src="https://drive.google.com/a/bioinformatics.ca/file/d/1G0_V5jfgijEOqRz8ulDkwN13Yo_0IN2K/view?usp=sharing" alt="Class Photo" width="750" />
+<img src="https://github.com/bioinformaticsdotca/IntroR_2019/blob/master/IntroR_ClassPhoto.jpg?raw=true" alt="Class Photo" width="750" />
 
 
 # Day 1 <a id="day1"></a>
