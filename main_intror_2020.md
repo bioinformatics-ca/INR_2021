@@ -45,7 +45,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 ## Lecture
 
-*<font color="#827e9c">Lauren Erdma</font>* 
+*<font color="#827e9c">Lauren Erdman</font>* 
  
  
 
@@ -55,7 +55,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 ## Lecture
 
-*<font color="#827e9c">Lauren Erdma</font>* 
+*<font color="#827e9c">Lauren Erdman</font>* 
 
  
 
