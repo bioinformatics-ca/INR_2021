@@ -21,7 +21,7 @@ endDate: 2020-06-10
 
 [Welcome](https://drive.google.com/file/d/17rDOG_6TK0W4HW5YKuV-YeZ2HoY-O6vr/view?usp=sharing) to Introduction to R.  
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2019_schedule)
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2020_schedule)
 
 Meet your faculty (coming soon) 
 
