@@ -5,7 +5,7 @@ title: Intro R
 header1: Workshop Pages for Students
 header2: Introduction to R
 image: /site_images/CBW_introtoR-icon.jpg
-home: https://bioinformaticsdotca.github.io/IntroR_2020
+home: https://bioinformaticsdotca.github.io/Intror_2020
 description: Intro R Schedule
 author: Rachade H
 modified: June 7, 2020
