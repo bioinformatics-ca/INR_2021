@@ -51,6 +51,8 @@ Pre-work including programs to install can be found [here](https://bioinformatic
  
  [Lecture_Part_2](https://drive.google.com/open?id=1bfGKd6xq_Z1nNPivw0uW029We-eXLsm5)
  
+ [Google_Doc_Glossary](https://docs.google.com/document/d/1UEHZ7Vwk1ygr2xjYFwv_p9sRxXev_--VaIcX7RAW1AM/edit?pli=1)
+ 
 ## Lab Practical
 
 [Example_data1.csv](https://drive.google.com/open?id=1PVak98SP0QhNNKDMXH6pHoMXH8MG3z6M)
@@ -58,6 +60,8 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 [Example_data2.txt](https://drive.google.com/open?id=1m3UGxHz6sPRrOEx-vrNNU3Q3gJOEDMbM)
 
 [Assigment_data1.csv](https://drive.google.com/open?id=1xYCSGfW4Zi36JRTiQ9UniXy9kNnMtY91)
+
+[Assigment_data2.txt](https://drive.google.com/open?id=16RFxCOCfWjPyNx3aABymVUMsch67mW1T)
 
 [IntroTo_R_Day1_assg1.R](https://drive.google.com/open?id=1-wxTNic84qAd0sMUxK8Ot3VqoCqZcQmr)
 
