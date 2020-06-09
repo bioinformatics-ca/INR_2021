@@ -47,7 +47,22 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 *<font color="#827e9c">Lauren Erdman</font>* 
  
+ [Lecture_Part_1](https://drive.google.com/open?id=1Bm33h6yXhyyooXB1mlqZZ9TNLkCEX0Hy)
  
+ [Lecture_Part_2](https://drive.google.com/open?id=10f4RhNmkdA8NbF_XnRku9mT3kmqrgklZ)
+ 
+## Lab Practical
+
+[Example_data1.csv](https://drive.google.com/open?id=1PVak98SP0QhNNKDMXH6pHoMXH8MG3z6M)
+
+[Example_data2.txt](https://drive.google.com/open?id=1m3UGxHz6sPRrOEx-vrNNU3Q3gJOEDMbM)
+
+[Assigment_data1.csv](https://drive.google.com/open?id=1xYCSGfW4Zi36JRTiQ9UniXy9kNnMtY91)
+
+[IntroTo_R_Day1_assg1.R](https://drive.google.com/open?id=1-wxTNic84qAd0sMUxK8Ot3VqoCqZcQmr)
+
+[IntroToR_Day1_Script2.R](https://drive.google.com/open?id=1jqaR2wF8ZiNOol4zrwLbWJ9al-7bLfur)
+
 
 ***
 
