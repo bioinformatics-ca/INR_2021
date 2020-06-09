@@ -30,6 +30,7 @@ modified: June 06, 2020
 
 - Test that is it working : Run the script and save the image.
 
+[MASTER FILE](https://drive.google.com/open?id=1w6PTDS5gMUsxjG8Ucm16zc-x6YKS-Bqg)
 
 ## Knowledge Preparation (optional): <a id="preworkshop"></a>
 
