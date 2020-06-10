@@ -96,7 +96,6 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroToR_Day1_Script2.R](https://drive.google.com/open?id=1VzsxeBvaEr31LrL0puBYZnm0OmmFsWKW)
 
-[ZIP_Shiny](https://drive.google.com/open?id=1y9UXsUrGcAfVT3wvR6IxT1z5tdiT9NKs)
 
 
 ## Assignement #1
