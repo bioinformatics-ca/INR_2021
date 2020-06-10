@@ -84,6 +84,9 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroTo_R_Day2_Part1](https://drive.google.com/open?id=15D-76W-8BQpPiY0HNGosIBRPVqpDVaxq)
 
+*<font color="#827e9c">Gabriela Morgenshtern</font>* 
+
+[R_Shiny](https://drive.google.com/open?id=1JSfH0XvYSDWaDR78vdi2QZZansiLk3-1)
 
 # Lab Practical
 
@@ -93,6 +96,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroToR_Day1_Script2.R](https://drive.google.com/open?id=1VzsxeBvaEr31LrL0puBYZnm0OmmFsWKW)
 
+[ZIP_Shiny](https://drive.google.com/open?id=1y9UXsUrGcAfVT3wvR6IxT1z5tdiT9NKs)
 
 
 ## Assignement #1
@@ -105,12 +109,6 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [Assigment_data2.txt](https://drive.google.com/open?id=16RFxCOCfWjPyNx3aABymVUMsch67mW1T)
 
-
-*<font color="#827e9c">Gabriela Morgenshtern</font>* 
-
-[R_Shiny](https://drive.google.com/open?id=1JSfH0XvYSDWaDR78vdi2QZZansiLk3-1)
-
-[ZIP_Shiny](https://drive.google.com/open?id=1y9UXsUrGcAfVT3wvR6IxT1z5tdiT9NKs)
 
 ***
 # Survey
