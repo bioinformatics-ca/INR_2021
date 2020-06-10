@@ -23,7 +23,8 @@ endDate: 2020-06-10
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2020_schedule)
 
-Meet your faculty (coming soon) 
+Meet your faculty [here](https://github.com/bioinformatics-ca/IntroR_2020/blob/master/Intro_to_R_2020_team.pdf) 
+
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
@@ -33,7 +34,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 # Class Photo
 
-
+<img src="https://github.com/bioinformatics-ca/IntroR_2020/blob/master/Intro_R_2020_Class_Photo.jpg?raw=true" alt="Class Photo" width="750" />
 
 # Day 1 <a id="day1"></a>
 
