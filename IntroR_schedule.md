@@ -25,9 +25,9 @@ modified: June 7, 2020
 | 2:00 |  <font color="green">*Break*</font> |<font color="green">*Break*</font> | 
 | 3:00 |	<font color="purple">Plotting and testing categorical data</font>	|	<font color="purple">Loops and functions</font> |  
 | 3:30 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 3:40 |	<font color="purple">Many graphs in the same frame</font>	|	<font color="purple">Review assignment</font> |  
-| 4:30 |	<font color="purple">Conducting t-tests and extracting output</font>	|	<font color="purple">Review assignment</font> |  
+| 3:40 |	<font color="purple">Many graphs in the same frame</font>	|	<font color="purple">Integrated Assignment</font> |  
+| 4:30 |	<font color="purple">Conducting t-tests and extracting output</font>	|	<font color="purple">Integrated Assignment</font> |  
 | 5:00 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 5:30 |	<font color="purple">Integrated Assignment</font>	|	<font color="purple">Debugging review</font> |  
+| 5:30 |	<font color="purple">Integrated Assignment</font>	|	<font color="purple">Review assignment solutions</font> |  
 | 6:00 |	<font color="purple">Integrated Assignment</font>	|	<font color="purple">	Survey and Closing Remarks</font> |  
 | 6:30 |	<font color="green">Dinner</font>	|	<font color="green">	Happy Hour</font> |  
