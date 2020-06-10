@@ -83,6 +83,8 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroTo_R_Day2_Part1](https://drive.google.com/open?id=15D-76W-8BQpPiY0HNGosIBRPVqpDVaxq)
 
+[R_Shiny](https://drive.google.com/open?id=1JSfH0XvYSDWaDR78vdi2QZZansiLk3-1)
+
 # Lab Practical
 
 [Example_data1.csv](https://drive.google.com/open?id=1PVak98SP0QhNNKDMXH6pHoMXH8MG3z6M)
@@ -91,6 +93,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroToR_Day1_Script2.R](https://drive.google.com/open?id=1VzsxeBvaEr31LrL0puBYZnm0OmmFsWKW)
 
+[ZIP_Shiny](https://drive.google.com/open?id=1y9UXsUrGcAfVT3wvR6IxT1z5tdiT9NKs)
 
 ## Assignement #1
 [IntroTo_R_Day1_assg1.R](https://drive.google.com/open?id=1-wxTNic84qAd0sMUxK8Ot3VqoCqZcQmr)
