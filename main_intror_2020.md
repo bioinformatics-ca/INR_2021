@@ -121,6 +121,6 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 ***
 # Survey
 
-
+[Please take 2min of you Time :)](https://docs.google.com/forms/d/e/1FAIpQLSeTpwFTS-hyxF_3aNmGXv4-eQuvA54MUQGJP6qA9YHTH4seKQ/viewform)
 
 ***
