@@ -62,6 +62,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroToR_Day1_Script2.R](https://drive.google.com/open?id=1VzsxeBvaEr31LrL0puBYZnm0OmmFsWKW)
 
+[MASTER](https://drive.google.com/open?id=1Ht62zrtoOREOPz4k-ClGDfdOQc78RRBO)
 
 ## Assignement #1
 [IntroTo_R_Day1_assg1.R](https://drive.google.com/open?id=1-wxTNic84qAd0sMUxK8Ot3VqoCqZcQmr)
@@ -96,6 +97,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroToR_Day1_Script2.R](https://drive.google.com/open?id=1VzsxeBvaEr31LrL0puBYZnm0OmmFsWKW)
 
+[MASTER](https://drive.google.com/open?id=1Ht62zrtoOREOPz4k-ClGDfdOQc78RRBO)
 
 
 ## Assignement #1
@@ -108,6 +110,13 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [Assigment_data2.txt](https://drive.google.com/open?id=16RFxCOCfWjPyNx3aABymVUMsch67mW1T)
 
+[MASTER](https://drive.google.com/open?id=14lx-skqhTGBRLIuOfh4th9WUhha3sK_b)
+
+## Assignement #3
+
+[Shiny_app.R](https://drive.google.com/open?id=1PIwTIu-xnjqPv48EP54vB9pKSP6W3Yfr) 
+
+[Data](https://drive.google.com/open?id=1sG6Zl3zd3av6Cz0vUzOhuii5k5j_aFaz)
 
 ***
 # Survey
