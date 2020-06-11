@@ -19,7 +19,7 @@ endDate: 2020-06-10
 
 # Welcome <a id="welcome"></a>
 
-[Welcome](https://drive.google.com/file/d/17rDOG_6TK0W4HW5YKuV-YeZ2HoY-O6vr/view?usp=sharing) to Introduction to R.  
+[Welcome](https://drive.google.com/open?id=1ZTtte8-gGXfI1I0i9SOBCKstV2ldXj-d) to Introduction to R.  
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2020_schedule)
 
@@ -69,6 +69,8 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [Assigment_data1.csv](https://drive.google.com/open?id=1xYCSGfW4Zi36JRTiQ9UniXy9kNnMtY91)
 
+[MASTER](https://drive.google.com/open?id=1w7GH9HD9EFKKSpzN0KJsnPGomzMM62bS)
+
 ## Assignement #2
 [IntroTo_R_Day1_assg2.R](https://drive.google.com/open?id=1uUj0l-nbWtFJPhqWZJX9m9KU9ZfImcmN)
 
@@ -83,7 +85,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 *<font color="#827e9c">Lauren Erdman</font>* 
 
-[IntroTo_R_Day2_Part1](https://drive.google.com/open?id=15D-76W-8BQpPiY0HNGosIBRPVqpDVaxq)
+[IntroTo_R_Day2_Part1](https://drive.google.com/open?id=1DqMNwFTWPed86btDYcujktxsHuP7yKev)
 
 *<font color="#827e9c">Gabriela Morgenshtern</font>* 
 
@@ -97,13 +99,8 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [IntroToR_Day1_Script2.R](https://drive.google.com/open?id=1VzsxeBvaEr31LrL0puBYZnm0OmmFsWKW)
 
-[MASTER](https://drive.google.com/open?id=1Ht62zrtoOREOPz4k-ClGDfdOQc78RRBO)
+[MASTER](https://drive.google.com/open?id=1CQO2q9f04YVyUWWiFLSDyecYnLkpYym-)
 
-
-## Assignement #1
-[IntroTo_R_Day1_assg1.R](https://drive.google.com/open?id=1-wxTNic84qAd0sMUxK8Ot3VqoCqZcQmr)
-
-[Assigment_data1.csv](https://drive.google.com/open?id=1xYCSGfW4Zi36JRTiQ9UniXy9kNnMtY91)
 
 ## Assignement #2
 [IntroTo_R_Day1_assg2.R](https://drive.google.com/open?id=1uUj0l-nbWtFJPhqWZJX9m9KU9ZfImcmN)
