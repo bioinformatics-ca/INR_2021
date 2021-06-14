@@ -50,6 +50,7 @@ Comming soon
  
  [Lecture_Part_1]()
  
+ [LAb1]()
 
  
 ## Lab Practical
