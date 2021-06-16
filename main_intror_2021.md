@@ -44,17 +44,11 @@ Comming soon
 
 *<font color="#827e9c">Rachade / Francis </font>*
 
-## Lecture
-
 *<font color="#827e9c">Lauren Erdman</font>* 
  
- [Lecture_Part_1]()
+ ### Module 1
  
- [LAb1]()
-
- 
-## Lab Practical
-
+ [Slides](https://drive.google.com/file/d/1T7dvvMcB_PDsFcBHsJQLsFqZLMHOJr1a/view?usp=sharing)
 
 
 
