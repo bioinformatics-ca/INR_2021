@@ -50,6 +50,14 @@ Comming soon
  
  [Slides](https://drive.google.com/file/d/1T7dvvMcB_PDsFcBHsJQLsFqZLMHOJr1a/view?usp=sharing)
 
+### Assignment 1 
+
+[Starter script](https://drive.google.com/file/d/1NLsnVHOToG4OY9pWFrwYu60JG6NP3NjP/view?usp=sharing)
+[Data](https://drive.google.com/file/d/1l3oCfJrn2ztoUjkpkctTr5_WGjFvD9JQ/view?usp=sharing)
+
+### Module 2
+
+[Slides]()
 
 
 
