@@ -60,11 +60,18 @@ Comming soon
 
 ### Module 2
 
-[Slides]()
+[Slides](https://drive.google.com/file/d/1Ur9zJbyM5PJ7Uy-ajiaiRLECpoKZThm9/view?usp=sharing)
 
-[Starter script]()
+[Starter script](https://drive.google.com/file/d/1w31LrBcjFJ46iCo992sIO01BbhKHAG7-/view?usp=sharing)
 
-[Data]()
+[Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
+
+### Assignment 2 
+
+[Starter script](https://drive.google.com/file/d/1PBkXgGVWOx9yRK6XNECcCstcDCfGENh3/view?usp=sharing)
+
+[Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
+
 
 ***
 
