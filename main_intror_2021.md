@@ -81,6 +81,7 @@ Comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>* 
 
+[Slides](https://drive.google.com/file/d/1w--UN5B6lhITtwKWdAcbb7tMwig5l-xl/view?usp=sharing)
 
 
 # Lab Practical
