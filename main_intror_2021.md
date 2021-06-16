@@ -50,6 +50,8 @@ Comming soon
  
  [Slides](https://drive.google.com/file/d/1T7dvvMcB_PDsFcBHsJQLsFqZLMHOJr1a/view?usp=sharing)
 
+ [Data](https://drive.google.com/file/d/1H7h9mHTYK1QAH4wfNCK9vmiXKFk8ajMZ/view?usp=sharing)
+ 
 ### Assignment 1 
 
 [Starter script](https://drive.google.com/file/d/1NLsnVHOToG4OY9pWFrwYu60JG6NP3NjP/view?usp=sharing)
@@ -60,7 +62,9 @@ Comming soon
 
 [Slides]()
 
+[Starter script]()
 
+[Data]()
 
 ***
 
