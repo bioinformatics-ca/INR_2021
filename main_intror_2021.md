@@ -87,9 +87,9 @@ Comming soon
 
 # Project (days 1 and 2)
 
-[Slides]
+[Slides]()
 
-[Day 2 data]
+[Day 2 data]()
 
 
 
