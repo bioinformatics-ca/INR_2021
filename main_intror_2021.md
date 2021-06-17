@@ -72,19 +72,21 @@ Comming soon
 
 [Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
 
+### Short project
+
 
 ***
 
 # Day 2 <a id="day2"></a>
 
-## Lecture
+### Modules 3 and 4
 
 *<font color="#827e9c">Lauren Erdman</font>* 
 
 [Slides](https://drive.google.com/file/d/1w--UN5B6lhITtwKWdAcbb7tMwig5l-xl/view?usp=sharing)
 
 
-# Lab Practical
+### Short project
 
 
 
