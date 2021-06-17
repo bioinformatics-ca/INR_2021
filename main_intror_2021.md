@@ -64,7 +64,7 @@ Comming soon
 
 [Starter script](https://drive.google.com/file/d/1w31LrBcjFJ46iCo992sIO01BbhKHAG7-/view?usp=sharing)
 
-[Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
+[Data](https://drive.google.com/file/d/1XeP5vWIv0uJXS8kvJT7CXa3b6APpKU3T/view?usp=sharing)
 
 ### Assignment 2 
 
