@@ -72,7 +72,6 @@ Comming soon
 
 [Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
 
-### Short project
 
 
 ***
@@ -86,7 +85,11 @@ Comming soon
 [Slides](https://drive.google.com/file/d/1w--UN5B6lhITtwKWdAcbb7tMwig5l-xl/view?usp=sharing)
 
 
-### Short project
+# Project (days 1 and 2)
+
+[Slides]
+
+[Day 2 data]
 
 
 
