@@ -13,8 +13,8 @@ length: 2 days
 status: Completed
 audience: Graduates, postgraduates, Principle Investigators, Researchers
 location: Online
-startDate: 2020-06-09
-endDate: 2020-06-10
+startDate: 2021-06-21
+endDate: 2020-06-22
 ---
 
 # Welcome <a id="welcome"></a>
