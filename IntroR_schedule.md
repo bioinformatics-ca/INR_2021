@@ -1,33 +1,25 @@
 ---
 layout: tutorial_page
-permalink: /intror_2020_schedule
+permalink: /INR_2021_schedule
 title: Intro R
 header1: Workshop Pages for Students
 header2: Introduction to R
 image: /site_images/CBW_introtoR-icon.jpg
-home: https://bioinformaticsdotca.github.io/Intror_2020
-description: Intro R Schedule
+home: https://bioinformaticsdotca.github.io/INR_2021
+description: Introduction R Schedule
 author: Rachade H
 modified: June 7, 2020
 ---
 
-| | **Day 1** | **Day 2** |    
-| :---:| :---: | :---: |    
-| | **Tuesday, June 9** | **Wednesday, June 10** |  
-| 10:00 |	<font color="purple">Welcome (Rachade Hmamouchi)</font> |	<font color="purple">Left over material from Day 1 (Lauren Erdman)</font> |
-| 10:30 |	<font color="purple">First R Script using ggplot 2 (Lauren Erdman)</font>	|	<font color="purple">Starting our third script</font> |  
-| 11:00 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 11:20 |	<font color="purple">Inspecting data in R  and base R plots</font>	|	<font color="purple">Fitting and plotting a linear model</font> |  
-| 12:00 |	<font color="purple">Short exercise</font>	|	<font color="purple">Conditional indexing and a short exercise</font> |  
-| 12:30 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |
-| 1:00 |	<font color="purple">Review exercise</font>	|	<font color="purple">Review exercise</font> |  
-| 1:30 |	<font color="purple">Starting our second script</font>	|	<font color="purple">Coding efficiency: Revisiting our second script</font> |  
-| 2:00 |  <font color="green">*Break*</font> |<font color="green">*Break*</font> | 
-| 3:00 |	<font color="purple">Plotting and testing categorical data</font>	|	<font color="purple">Loops and functions</font> |  
-| 3:30 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 3:40 |	<font color="purple">Many graphs in the same frame</font>	|	<font color="purple">Integrated Assignment (Gabriela Morgenshtern)</font> |  
-| 4:30 |	<font color="purple">Conducting t-tests and extracting output</font>	|	<font color="purple">Integrated Assignment (Gabriela Morgenshtern)</font> |  
-| 5:00 |	<font color="green">*Break*</font> |	<font color="green">*Break*</font> |  
-| 5:30 |	<font color="purple">Integrated Assignment</font>	|	<font color="purple">Review assignment solutions</font> |  
-| 6:00 |	<font color="purple">Integrated Assignment</font>	|	<font color="purple">	Survey and Closing Remarks</font> |  
-| 6:30 |	<font color="green">Dinner</font>	|	<font color="green">	Happy Hour</font> |  
+| | **Day 1** || **Day 2** |  
+| :---:| :---: | :---: | :---: |   
+| | **Monday, June 21** || **Tuesday, June 22** |
+| 10:00| <font color="purple">Welcome (Rachade/Francis)</font> |10:00| <font color="purple">Day 2 Review, Module 3: Loops and functions (Lauren Erdman)</font> |
+| 10:15| <font color="purple">Module 1: Getting to Know R(Lauren Erdman)</font> |12:00| <font color="green">*Break 30min *</font> |
+| 12:15| <font color="green">*Break 30min *</font> |12:30| <font color="purple">Module 4: Linear regression (Lauren Erdman)</font> |
+| 12:45| <font color="purple">Module 1: Getting to Know R(Lauren Erdman)</font> |13:30| <font color="green">*Break 1h*</font> |
+| 13:45| <font color="green">*Break 1h*</font> |14:30| <font color="purple">Short project (Gabriela Morgens)</font> |
+| 14:45| <font color="purple">Module 2: Module 2: Exploring your data in R  (Lauren Erdman)</font> |16:30| <font color="green">*Break 30min *</font> |
+| 16:45| <font color="green">*Break 30min *</font> |17:00| <font color="purple"> Review  (Lauren Erdman)</font> |
+| 17:15| <font color="purple">Short project (Gabriela Morgens)</font> |18:00| <font color="purple">Survey & Closing Remarks (Rachade/Francis)</font> |
+| 18:15| | 18:15| | 
