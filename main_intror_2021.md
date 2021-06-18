@@ -21,14 +21,14 @@ endDate: 2020-06-10
 
 
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2021_schedule)
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2021_schedule)
 
 Meet your faculty [here]() 
 
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install can be found [here]().  
+Pre-work including programs to install can be found [here](https://forms.gle/1LEsZRzuuiEY7nX19).  
 
 ***
 
@@ -43,10 +43,9 @@ Comming soon
 ## Welcome
 
 *<font color="#827e9c">Rachade / Francis </font>*
-
-*<font color="#827e9c">Lauren Erdman</font>* 
  
  ### Module 1
+ *<font color="#827e9c">Lauren Erdman</font>* 
  
  [Slides](https://drive.google.com/file/d/1T7dvvMcB_PDsFcBHsJQLsFqZLMHOJr1a/view?usp=sharing)
 
