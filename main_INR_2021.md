@@ -42,7 +42,8 @@ Comming soon
 
 *<font color="#827e9c">Rachade / Francis </font>*
  
- ### Module 1
+ ## Module 1
+ 
  *<font color="#827e9c">Lauren Erdman</font>* 
  
  [Slides](https://drive.google.com/file/d/1T7dvvMcB_PDsFcBHsJQLsFqZLMHOJr1a/view?usp=sharing)
@@ -55,7 +56,7 @@ Comming soon
 
 [Data](https://drive.google.com/file/d/1l3oCfJrn2ztoUjkpkctTr5_WGjFvD9JQ/view?usp=sharing)
 
-### Module 2
+## Module 2
 
 [Slides](https://drive.google.com/file/d/1Ur9zJbyM5PJ7Uy-ajiaiRLECpoKZThm9/view?usp=sharing)
 
@@ -74,7 +75,7 @@ Comming soon
 
 # Day 2 <a id="day2"></a>
 
-### Modules 3 and 4
+## Modules 3 and 4
 
 *<font color="#827e9c">Lauren Erdman</font>* 
 
