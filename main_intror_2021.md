@@ -1,10 +1,10 @@
 ---
 layout: workshop_main_2day
-permalink: /intror_2020
-title: IntroR
+permalink: /INR_2021
+title: INR 2021
 header1: Workshop Pages for Students
-header2: Introduction to R 2020
-yearName: Introduction to R 2020
+header2: Introduction to R 2021
+yearName: Introduction to R 2021
 image: /site_images/CBW_introtoR-icon.jpg
 keywords: Data handling, using R syntax, scientific computational work
 description: Course introduces essential ideas and tools of R, and covers statistical tests in R.
@@ -18,8 +18,6 @@ endDate: 2020-06-10
 ---
 
 # Welcome <a id="welcome"></a>
-
-
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/INR_2021_schedule)
 
@@ -70,7 +68,6 @@ Comming soon
 [Starter script](https://drive.google.com/file/d/1PBkXgGVWOx9yRK6XNECcCstcDCfGENh3/view?usp=sharing)
 
 [Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
-
 
 
 ***
