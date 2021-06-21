@@ -50,6 +50,8 @@ Comming soon
 
  [Data](https://drive.google.com/file/d/1H7h9mHTYK1QAH4wfNCK9vmiXKFk8ajMZ/view?usp=sharing)
  
+ [Master script](https://drive.google.com/file/d/1JBxZD6Xb2vKETA-5a-0S9LKZmwA3Io97/view?usp=sharing)
+ 
 ### Assignment 1 
 
 [Starter script](https://drive.google.com/file/d/1NLsnVHOToG4OY9pWFrwYu60JG6NP3NjP/view?usp=sharing)
