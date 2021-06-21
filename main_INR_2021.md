@@ -72,7 +72,7 @@ Comming soon
 
 ## Project (days 1 and 2)
 
-[Slides](https://docs.google.com/presentation/d/10yf8opmb1ZlNlE1YGXhHsJjWsDfgwYrD82FEnmXNEnI/edit?usp=sharing)
+[Slides]()
 
 
 
@@ -89,7 +89,7 @@ Comming soon
 
 ## Project (days 1 and 2)
 
-[Slides](https://drive.google.com/file/d/1SkIaWjZy6YVE72JapO7tLPecYoj4_YM4/view?usp=sharing)
+[Slides]()
 
 [Day 2 data](https://drive.google.com/file/d/1qKTRjc4zXhJcXZosO8rME-D8MDKo_91i/view?usp=sharing)
 
