@@ -84,7 +84,7 @@ Comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>* 
 
-[Slides](https://drive.google.com/file/d/1w--UN5B6lhITtwKWdAcbb7tMwig5l-xl/view?usp=sharing)
+[Slides](https://drive.google.com/file/d/1UnkF39BAKa1wkt0XLkmM3YSio5GZnM5M/view?usp=sharing)
 
 
 ## Project (days 1 and 2)
