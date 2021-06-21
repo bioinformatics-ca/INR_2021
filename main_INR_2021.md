@@ -66,6 +66,8 @@ Comming soon
 
 [Data](https://drive.google.com/file/d/1XeP5vWIv0uJXS8kvJT7CXa3b6APpKU3T/view?usp=sharing)
 
+[Master script](https://drive.google.com/file/d/148vakGizrsq_7N69LfdXJbmLSlXsemDh/view?usp=sharing)
+
 ### Assignment 2 
 
 [Starter script](https://drive.google.com/file/d/1PBkXgGVWOx9yRK6XNECcCstcDCfGENh3/view?usp=sharing)
