@@ -46,7 +46,7 @@ Comming soon
  
  *<font color="#827e9c">Lauren Erdman</font>* 
  
- [Slides](https://drive.google.com/file/d/1fVnjONNqAokX_So1P3TPVubfYllsHgAf/view?usp=sharing)
+ [Slides pdf](https://drive.google.com/file/d/12rxRJPsveBiKw-ltb_8CUEr_NPITYjaE/view?usp=sharing)
 
  [Data](https://drive.google.com/file/d/1H7h9mHTYK1QAH4wfNCK9vmiXKFk8ajMZ/view?usp=sharing)
  
@@ -58,7 +58,7 @@ Comming soon
 
 ## Module 2
 
-[Slides](https://drive.google.com/file/d/1xKMUMVxOsjlU7WilqhFBN2raD_qUPcUx/view?usp=sharing)
+[Slides pdf](https://drive.google.com/file/d/1igGS3RBTHNIdI6KSXECaDDKi3VvTSCoi/view?usp=sharing)
 
 [Starter script](https://drive.google.com/file/d/1w31LrBcjFJ46iCo992sIO01BbhKHAG7-/view?usp=sharing)
 
@@ -74,7 +74,7 @@ Comming soon
 
 [Slides](https://docs.google.com/presentation/d/10yf8opmb1ZlNlE1YGXhHsJjWsDfgwYrD82FEnmXNEnI/edit?usp=sharing)
 
-[Day 2 data](https://drive.google.com/file/d/1qKTRjc4zXhJcXZosO8rME-D8MDKo_91i/view?usp=sharing)
+
 
 ***
 
@@ -84,7 +84,7 @@ Comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>* 
 
-[Slides](https://drive.google.com/file/d/1UnkF39BAKa1wkt0XLkmM3YSio5GZnM5M/view?usp=sharing)
+[Slides]()
 
 
 ## Project (days 1 and 2)
