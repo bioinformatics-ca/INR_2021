@@ -91,7 +91,7 @@ Comming soon
 
 *<font color="#827e9c">Lauren Erdman</font>* 
 
-[Slides]()
+[Slides](https://drive.google.com/file/d/1uyqh09LjEzSWWDQ2-KkWtVRLA5nqKF5Q/view?usp=sharing)
 
 
 ## Project 
