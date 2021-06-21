@@ -46,7 +46,7 @@ Comming soon
  
  *<font color="#827e9c">Lauren Erdman</font>* 
  
- [Slides pdf](https://drive.google.com/file/d/12rxRJPsveBiKw-ltb_8CUEr_NPITYjaE/view?usp=sharing)
+ [Slides](https://drive.google.com/file/d/13tSS5kcFf7iCaIz_Cp1qbV0mDVFEGYJ_/view?usp=sharing)
 
  [Data](https://drive.google.com/file/d/1H7h9mHTYK1QAH4wfNCK9vmiXKFk8ajMZ/view?usp=sharing)
  
@@ -60,7 +60,7 @@ Comming soon
 
 ## Module 2
 
-[Slides pdf](https://drive.google.com/file/d/1igGS3RBTHNIdI6KSXECaDDKi3VvTSCoi/view?usp=sharing)
+[Slides](https://drive.google.com/file/d/149V1hnFRZiAt5_tqDwVJNeI1baEBSVKh/view?usp=sharing)
 
 [Starter script](https://drive.google.com/file/d/1w31LrBcjFJ46iCo992sIO01BbhKHAG7-/view?usp=sharing)
 
