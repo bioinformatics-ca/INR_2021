@@ -56,6 +56,8 @@ Comming soon
 
 [Data](https://drive.google.com/file/d/1l3oCfJrn2ztoUjkpkctTr5_WGjFvD9JQ/view?usp=sharing)
 
+[Solution](https://drive.google.com/file/d/1ULynyWmbZm035qhG88sQzYt4sEGXGADx/view?usp=sharing)
+
 ## Module 2
 
 [Slides pdf](https://drive.google.com/file/d/1igGS3RBTHNIdI6KSXECaDDKi3VvTSCoi/view?usp=sharing)
