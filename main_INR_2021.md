@@ -70,11 +70,10 @@ Comming soon
 
 [Data](https://drive.google.com/file/d/10uwH8Acm0-_XFMqBAgmvCrwyKKhpTkME/view?usp=sharing)
 
-## Project (days 1 and 2)
+## Project
 
 [Slides](https://drive.google.com/file/d/1H2EHnOBeMWyvkcAVcju8DddyExQuHXVm/view?usp=sharing)
 
-[Day 2 data](https://drive.google.com/file/d/1qKTRjc4zXhJcXZosO8rME-D8MDKo_91i/view?usp=sharing)
 
 
 
@@ -89,7 +88,7 @@ Comming soon
 [Slides]()
 
 
-## Project (days 1 and 2)
+## Project 
 
 [Slides](https://drive.google.com/file/d/1H2EHnOBeMWyvkcAVcju8DddyExQuHXVm/view?usp=sharing)
 
