@@ -93,6 +93,8 @@ Comming soon
 
 [Slides](https://drive.google.com/file/d/1Ud6FXXjyTgy2ueg8Xkcbghz2Q0Jc15eP/view?usp=sharing)
 
+[Master script](https://drive.google.com/file/d/18ZAeeEOKnnNdKHVKr1hbHuqEV-vQnBJq/view?usp=sharing)
+
 
 ## Project 
 
