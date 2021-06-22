@@ -100,6 +100,7 @@ Comming soon
 
 [Day 2 data](https://drive.google.com/file/d/1qKTRjc4zXhJcXZosO8rME-D8MDKo_91i/view?usp=sharing)
 
+[Solution](https://drive.google.com/file/d/1fT4KUSTJd3ST0kCp067q7gy3O4V7UMTY/view?usp=sharing)
 
 
 
