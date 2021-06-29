@@ -8,7 +8,7 @@ image: /site_images/CBW_introtoR-icon.jpg
 home: https://bioinformaticsdotca.github.io/INR_2021
 description: Introduction R Schedule
 author: Rachade H
-modified: June 7, 2020
+modified: June 7, 2021
 ---
 
 | | **Day 1** || **Day 2** |  
